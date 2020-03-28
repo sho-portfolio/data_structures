@@ -19,6 +19,8 @@ what is a hash table
 
 what is tries
 
+queues (fifo, lifo)
+
 references and credits
 https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=6
 
