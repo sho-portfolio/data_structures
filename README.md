@@ -19,7 +19,14 @@ what is a hash table
 
 what is tries
 
-queues (fifo, lifo)
+queues (fifo, lifo) (enqueue, dequeue)
+stacks (push, pop) (filo)
+dictionaries
+
+
+
+note: a hash tbl is a data structure and is used to implement a data dictonary (which is a abstract data type)
+
 
 references and credits
 https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=6
