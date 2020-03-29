@@ -30,4 +30,5 @@ note: a hash tbl is a data structure and is used to implement a data dictonary (
 
 references and credits
 https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&index=6
+https://www.youtube.com/watch?v=fL308_-Kbt0
 
